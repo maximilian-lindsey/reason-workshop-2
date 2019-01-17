@@ -4,6 +4,8 @@ Feedback Form Link: https://docs.google.com/forms/d/e/1FAIpQLSduti27Gold0T3WDtSe
 
 GraphQL & Reason talk https://www.youtube.com/watch?v=tUIvl2pe8CQ
 
+[Ken Wheeler - ReasonML is Serious Business](https://www.youtube.com/watch?v=lzEweA7RPi0)
+
 ## 1. Data structures
 
 Create a data-structure for a chess figure with the following attributes: color, position, kind
